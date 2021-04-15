@@ -584,15 +584,15 @@ Hola *${pushname}*
 
 〘 *BOT* 〙
 ‣ Prefijo:「 ${prefix} 」
-‣ Yo soy: 😼𝗞𝗘𝗧𝗭𝗔 𝗕𝗢𝗧💨 
+‣ Yo soy: 😼𝗕𝗢𝗧 KETZAKOT OFC💨 
 ‣ Tiempo encencido: *${kyun(uptime)}*
 ‣ Modo: *ON*
 ‣ Grupo:  *${groupName}*
 ‣ Número de grupos: *${_registered.length}*
 ‣ Número de chats: *${totalchat.length}*
-‣ Numero del Dueño wa.me/50373488366 
-
-‣ GRUPO OFICIAL https://chat.whatsapp.com/JyD8Vj11LPu1TofWhWnYMA
+‣ Numero del Dueño wa.me/+549357665-1536 
+‣ GRUPO OFICIAL DEL BOT  https://chat.whatsapp.com/Ku7ugjSULqXIu8z8kA3UdN
+‣ NO LLAMADAS AL BOT, NO SPAM NI BINARIOS ¿OK? ATT:ketzakot
 
 ┏━━━━━━━━━━━━━━━━━━━━
 ┃───〘 😼𝗞𝗘𝗧𝗭𝗔 𝗕𝗢𝗧💨  〙───
